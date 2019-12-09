@@ -15,5 +15,6 @@
     </meta>
     <projectTree name="DITAProject.xpr">
         <folder path="."/>
+        <file name="Topics/Concepts/ibm_storediq_components.dita"/>
     </projectTree>
 </project>

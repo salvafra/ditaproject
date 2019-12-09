@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>DITAProject</title>
-    <mapref href="secondmap.ditamap" format="ditamap"/>
+    <title>DITA Project</title>
+    <topicmeta>  
+        <author href="mailto:francesco.salvadori@cit.ie" format="eml" scope="external">Francesco</author>     
+        <copyright>   
+            <copyryear year="2016"/>  
+            <copyrholder>Francesco</copyrholder> 
+        </copyright> 
+    </topicmeta>
+    <topicref href="Topics/References/ref_about_this_publication.dita" toc="yes"></topicref>
+    <topicref href="Topics/Concepts/ibm_storediq_components.dita"></topicref>
+    <topicref href="Topics/Concepts/planning_for_deployment.dita"></topicref>
+    <topicref href="Topics/Tasks/deploying_ibm_storediq.dita"></topicref>
+    <topicref href="Topics/Concepts/open_virtual_appliance.dita"></topicref>
+    <topicref href="Topics/Concepts/network_and_port_requirements.dita"></topicref>
+    <topicref href="Topics/Concepts/environment_sizing_guidelines.dita"></topicref>
+    <topicref href="Topics/Concepts/stack-provisioning.dita"></topicref>
+    <topicref href="Topics/Concepts/security.dita"></topicref>
+    <topicref href="Topics/Concepts/glossary.dita"></topicref>
 </map>
