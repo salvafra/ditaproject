@@ -2,4 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>My Second Map</title>
+     
+     <keydef keys="resourceskey" href="Resources/resources.dita"></keydef>
+     <keydef keys="index" href="Topics/Concepts/index.dita"></keydef>
 </map>

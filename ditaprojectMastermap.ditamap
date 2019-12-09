@@ -10,13 +10,17 @@
         </copyright> 
     </topicmeta>
     <topicref href="Topics/References/ref_about_this_publication.dita" toc="yes"></topicref>
-    <topicref href="Topics/Concepts/ibm_storediq_components.dita"></topicref>
-    <topicref href="Topics/Concepts/planning_for_deployment.dita"></topicref>
-    <topicref href="Topics/Tasks/deploying_ibm_storediq.dita"></topicref>
-    <topicref href="Topics/Concepts/open_virtual_appliance.dita"></topicref>
-    <topicref href="Topics/Concepts/network_and_port_requirements.dita"></topicref>
-    <topicref href="Topics/Concepts/environment_sizing_guidelines.dita"></topicref>
-    <topicref href="Topics/Concepts/stack-provisioning.dita"></topicref>
-    <topicref href="Topics/Concepts/security.dita"></topicref>
-    <topicref href="Topics/Concepts/glossary.dita"></topicref>
+    
+    <topicref href="Topics/Concepts/2ibm_storedip.dita" toc="yes"></topicref>
+    <!-- 
+    <topicref href="Topics/Concepts/planning_for_deployment.dita" toc="yes"></topicref>
+    <topicref href="Topics/Tasks/deploying_ibm_storediq.dita" toc="yes"></topicref>
+    <topicref href="Topics/Concepts/open_virtual_appliance.dita" toc="yes"></topicref>
+    <topicref href="Topics/Concepts/network_and_port_requirements.dita" toc="yes"></topicref>
+    <topicref href="Topics/Concepts/environment_sizing_guidelines.dita" toc="yes"></topicref>
+    <topicref href="Topics/Concepts/stack-provisioning.dita" toc="yes"></topicref>
+    <topicref href="Topics/Concepts/security.dita" toc="yes"></topicref>
+    <topicref href="Topics/Concepts/glossary.dita" toc="yes"></topicref>-->
+    <mapref href="secondmap.ditamap"></mapref> 
 </map>
+
